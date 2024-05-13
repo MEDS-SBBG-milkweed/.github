@@ -16,5 +16,21 @@ Identify high-priority milkweed survey sites, based on habitat suitability and p
    
 Deliver all components of objective 1 in the form of an interactive web dashboard to facilitate field survey planning and allow for future updates as additional data is collected.
 
+### Authors and Contributors
+[Amanda Herbst](https://github.com/amandaherbst)
+
+[Anna Ramji](https://github.com/annaramji)
+
+[Melissa Widas](https://github.com/mwidas)
+
+[Sam Muir](https://github.com/shmuir)
+
+### Client 
+
+Dr. Sarah Cusser, Terrestrial Invertebrate Conservation Ecologist
+Santa Barbara Botanic Garden
+1212 Mission Canyon Rd.
+Santa Barbara, CA 93105
+
 
 
