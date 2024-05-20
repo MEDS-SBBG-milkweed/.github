@@ -17,7 +17,7 @@ Identify high-priority milkweed survey sites, based on habitat suitability and p
 Deliver all components of objective 1 in the form of an interactive web dashboard to facilitate field survey planning and allow for future updates as additional data is collected.
 
 ### Authors and Contributors
-[Amanda Herbst](https://github.com/amandaherbst)
+ Amanda Herbst { [Github](https://github.com/amandaherbst) | [Website](amandaherbst.github.io) | [LinkedIn](https://www.linkedin.com/in/amanda-herbst/) }
 
 [Anna Ramji](https://github.com/annaramji)
 
