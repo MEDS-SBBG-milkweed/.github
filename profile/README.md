@@ -17,14 +17,14 @@ Identify high-priority milkweed survey sites, based on habitat suitability and p
 Deliver all components of objective 1 in the form of an interactive web dashboard to facilitate field survey planning and allow for future updates as additional data is collected.
 
 ### Authors and Contributors
- Amanda Herbst { [Github](https://github.com/amandaherbst) | [Website](amandaherbst.github.io) | [LinkedIn](https://www.linkedin.com/in/amanda-herbst/) }
+ - Amanda Herbst { [Github](https://github.com/amandaherbst) | [Website](amandaherbst.github.io) | [LinkedIn](https://www.linkedin.com/in/amanda-herbst/) }
 
-[Anna Ramji](https://github.com/annaramji)
+ - Anna Ramji { [Github](https://github.com/annaramji) | [Website](https://annaramji.github.io/) | [LinkedIn](https://www.linkedin.com/in/annaramji/) }
 
-[Melissa Widas](https://github.com/mwidas)
 
-[Sam Muir](https://github.com/shmuir)
+ - Melissa Widas { [Github](https://github.com/mwidas) | [Website](https://mwidas.github.io/) | [LinkedIn](https://www.linkedin.com/in/mwidas/) }
 
+ - Sam Muir { [Github](https://github.com/shmuir) | [Website](https://shmuir.github.io/) | [LinkedIn](https://www.linkedin.com/in/shmuir/) }
 ### Client 
 
 Dr. Sarah Cusser, Terrestrial Invertebrate Conservation Ecologist
