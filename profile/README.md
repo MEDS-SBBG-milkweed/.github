@@ -1,4 +1,5 @@
-## Identifying Priority Sites for Early-Season Milkweed for Conservation in the Los Padres National Forest
+## Identifying Priority Survey Sites for Early-Season Milkweed Conservation
+
 
 
 <img width="181" alt="Screenshot 2024-05-08 at 15 40 12" src="https://github.com/milkweed-mod/.github/assets/140285614/86e63345-cdaf-4b4f-8df8-6a1f5880fdb8">
