@@ -9,6 +9,8 @@
 
 [Technical Documentation](#technical-documentation)
 
+[Disclaimers](#disclaimers)
+
 [Authors and Contributors](#authors-and-contributors)
 
 [Client](#client)
@@ -43,6 +45,10 @@ Monarch butterfly (*Danaus plexippus*) populations are experiencing decline due 
 
 To read more about the project and modeling processes, please refer to our [Bren project page and technical documentation](https://bren.ucsb.edu/projects/identifying-priority-survey-sites-early-season-milkweed-conservation).
 
+## Disclaimers
+Plant and seed collection on Forest Service land is not permissible without a plant collection permit from the Los Padres National Forest.
+
+This project was completed as a part of the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) program at the Bren School of Environmental Science & Management at the University of California, Santa Barbara. 
 
 ## Authors and Contributors
  - Amanda Herbst { [Github](https://github.com/amandaherbst) | [Website](amandaherbst.github.io) | [LinkedIn](https://www.linkedin.com/in/amanda-herbst/) }
