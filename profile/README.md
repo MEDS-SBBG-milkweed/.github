@@ -46,7 +46,7 @@ Monarch butterfly (Danaus plexippus) populations are experiencing decline due to
 
  - Melissa Widas { [Github](https://github.com/mwidas) | [Website](https://mwidas.github.io/) | [LinkedIn](https://www.linkedin.com/in/mwidas/) }
 
-### Client 
+## Client 
 
 Dr. Sarah Cusser, Terrestrial Invertebrate Conservation Ecologist <br>
 Santa Barbara Botanic Garden <br>
