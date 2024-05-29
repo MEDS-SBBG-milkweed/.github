@@ -2,7 +2,16 @@
 
 <img width="1400" alt="MilkweedMod_Pres" src="https://github.com/MEDS-SBBG-milkweed/.github/assets/98177666/6049f3c0-e73d-4f78-96f1-634a912ab470">
 
-## Description
+## Table of Contents
+[Project Description](#project-description)
+
+[Data](#data-sources)
+
+[Authors and Contributors](#authors-and-contributors)
+
+[Client](#client)
+
+## Project Description
 Monarch butterfly (Danaus plexippus) populations are experiencing decline due to habitat degradation and climate threats. In 2024, this iconic species became protected under the Endangered Species Act. Critical to the persistence of this species of cultural and ecological importance is milkweed (Asclepias spp.), which monarchs rely on as an essential resource for food and reproduction. Motivated by concerns over the loss of monarch habitat, the Santa Barbara Botanic Garden (SBBG) and local collaborators are working to identify potential restoration areas in the Los Padres National Forest (LPNF). However, the vast size and complex terrain of the LPNF poses a logistical challenge to surveying. Therefore, there is a need for a tool to aid in selecting sites to prioritize. Our team created a priority index for surveying milkweed within the LPNF by predicting the habitat suitability for four early-season milkweed species using Maximum Entropy (MaxEnt) species distribution modeling and creating a novel survey site accessibility index. We identified high-priority sites for the team to survey based on high predicted suitability for each species of early-season milkweed and high physical accessibility. To communicate these results, we created an interactive web dashboard, which the SBBG team will use for field planning to support the ongoing monitoring of milkweed populations for monarch habitat restoration efforts within the LPNF. 
 
 ### To achieve this goal we have identified the following objectives:
@@ -11,8 +20,10 @@ Monarch butterfly (Danaus plexippus) populations are experiencing decline due to
 
 2. Deliver all components of objective 1 in the form of an interactive web dashboard to facilitate field survey planning and allow for future updates as additional data is collected.
    - [milkweed-site-finder](https://github.com/milkweed-mod/milkweed-site-finder)
-  
-### Data sources
+
+<img width="1463" alt="milkweed_sp" src="https://github.com/MEDS-SBBG-milkweed/.github/assets/98177666/a35dd260-1386-4d3a-9122-4f8f3a52535b">
+
+## Data sources
 
 | Data                                                                                                                                             | Source                                                                                                                                | Use                                                                                                             |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
