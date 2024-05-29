@@ -7,6 +7,8 @@
 
 [Data](#data-sources)
 
+[Technical Documentation](#technical-documentation)
+
 [Authors and Contributors](#authors-and-contributors)
 
 [Client](#client)
@@ -23,7 +25,7 @@ Monarch butterfly (Danaus plexippus) populations are experiencing decline due to
 
 <img width="1463" alt="milkweed_sp" src="https://github.com/MEDS-SBBG-milkweed/.github/assets/98177666/a35dd260-1386-4d3a-9122-4f8f3a52535b">
 
-## Data sources
+## Data Sources
 
 | Data                                                                                                                                             | Source                                                                                                                                | Use                                                                                                             |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
@@ -35,6 +37,11 @@ Monarch butterfly (Danaus plexippus) populations are experiencing decline due to
 | **Los Padres National Forest (LPNF) Boundary:** boundaries of the northern and southern regions of the LPNF (.gdb)                                   | California State Parks GIS Data (via parks.ca.gov) ESRI geodatabase                                                                   | Habitat Suitability Map,  Survey Site Accessibility Index,  Interactive Web Dashboard                           |
 | **LPNF 2023 Trails and Roads:** trails and roads in the southern region of the LPNF (.shp)                                                           | Los Padres Forest Watch via ArcGIS                                                                                                    | Survey Site Accessibility Index,  Survey Site Priority Index, Interactive Web Dashboard                         |
 | **USGS 2024 Trails and Roads:** trails and different types of roads in California (.shp), used data from within the northern region of the LPNF      | National Transportation Data (NTD) California Shapefile, courtesy of the U.S. Geological Survey                                       | Survey Site Accessibility Index, Survey Site Priority Index, Interactive Web Dashboard                          |
+
+
+## Technical Documentation
+
+To read more about the project and modeling processes, please refer to our [Bren project page and technical documentation](https://bren.ucsb.edu/projects/identifying-priority-survey-sites-early-season-milkweed-conservation).
 
 
 ## Authors and Contributors
