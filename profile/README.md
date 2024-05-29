@@ -1,10 +1,7 @@
 ## Identifying Priority Survey Sites for Early-Season Milkweed Conservation
 
 
-
-<img width="181" alt="Screenshot 2024-05-08 at 15 40 12" src="https://github.com/milkweed-mod/.github/assets/140285614/86e63345-cdaf-4b4f-8df8-6a1f5880fdb8">
-
-
+<img width="1468" alt="MilkweedMod_Pres" src="https://github.com/MEDS-SBBG-milkweed/.github/assets/98177666/9e7dfa9b-9c59-4512-ba84-510855627187">
 
 Monarch butterfly (Danaus plexippus) populations are experiencing decline due to habitat degradation and climate threats. In 2024, this iconic species became protected under the Endangered Species Act. Critical to the persistence of this species of cultural and ecological importance is milkweed (Asclepias spp.), which monarchs rely on as an essential resource for food and reproduction. Motivated by concerns over the loss of monarch habitat, the Santa Barbara Botanic Garden (SBBG) and local collaborators are working to identify potential restoration areas in the Los Padres National Forest (LPNF). However, the vast size and complex terrain of the LPNF poses a logistical challenge to surveying. Therefore, there is a need for a tool to aid in selecting sites to prioritize. Our team created a priority index for surveying milkweed within the LPNF by predicting the habitat suitability for four early-season milkweed species using Maximum Entropy (MaxEnt) species distribution modeling and creating a novel survey site accessibility index. We identified high priority sites for the team to survey based on high predicted suitability for each species of early-season milkweed and high physical accessibility. To communicate these results, we created an interactive web dashboard, which the SBBG team will use for field planning to support the ongoing monitoring of milkweed populations for monarch habitat restoration efforts within the LPNF. 
 
