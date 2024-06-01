@@ -14,7 +14,7 @@ MilkweedMod
 
 <h2 align="center">
 
-**MEDS SBBG Milkweed**
+**MEDS SBBG Milkweed Organization**
 
 </h2>
 
