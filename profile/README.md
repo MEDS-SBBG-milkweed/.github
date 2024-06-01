@@ -2,7 +2,7 @@
 
 <h2 align="center">
    
-<img src = "https://github.com/MEDS-SBBG-milkweed/.github/assets/98177666/5e2d8810-6d59-44e9-90fa-ed979d8a9f7a" alt="Banner" width="300">
+<img src = "https://github.com/MEDS-SBBG-milkweed/.github/assets/98177666/5e2d8810-6d59-44e9-90fa-ed979d8a9f7a" alt="MilkweedMod capstone group hexsticker. Dark green background with a white outline of California, filled in with illustrated milkweed plants and an orange monarch butterfly accompanying the text Milkweed Mod" width="300">
 
 </h2>
 
@@ -23,6 +23,7 @@
 Monarch butterfly (*Danaus plexippus*) populations are experiencing decline due to habitat degradation and climate threats. In 2024, this iconic species became protected under the Endangered Species Act. Critical to the persistence of this species of cultural and ecological importance is milkweed (*Asclepias spp.*), which monarchs rely on as an essential resource for food and reproduction. Motivated by concerns over the loss of monarch habitat, the Santa Barbara Botanic Garden (SBBG) and local collaborators are working to identify potential restoration areas in the Los Padres National Forest (LPNF). However, the vast size and complex terrain of the LPNF poses a logistical challenge to surveying. Therefore, there is a need for a tool to aid in selecting sites to prioritize. Our team created a priority index for surveying milkweed within the LPNF by predicting the habitat suitability for four early-season milkweed species using Maximum Entropy (MaxEnt) species distribution modeling and creating a novel survey site accessibility index. We identified high-priority sites for the team to survey based on high predicted suitability for each species of early-season milkweed and high physical accessibility. To communicate these results, we created an interactive web dashboard, which the SBBG team will use for field planning to support the ongoing monitoring of milkweed populations for monarch habitat restoration efforts within the LPNF. 
 
 <img width="1463" alt="milkweed_sp" src="https://github.com/MEDS-SBBG-milkweed/.github/assets/98177666/a35dd260-1386-4d3a-9122-4f8f3a52535b">
+<figcaption>Photos courtesy of Kylie Etter</figcaption>
 
 ### To achieve this goal we have identified the following objectives:
 1. Identify high-priority milkweed survey sites, based on habitat suitability and physical accessibility, throughout the Los Padres National Forest to direct Santa Barbara Botanic Garden summer 2024 field surveys.
