@@ -2,7 +2,7 @@
 
 <h2 align="center">
    
-![MilkweedMod-transparent](https://github.com/MEDS-SBBG-milkweed/.github/assets/98177666/b98e752a-194c-4e54-8623-15ef18f8409b)
+<img src = "https://github.com/MEDS-SBBG-milkweed/.github/assets/98177666/5e2d8810-6d59-44e9-90fa-ed979d8a9f7a" alt="Banner" width="300">
 
 </h2>
 
