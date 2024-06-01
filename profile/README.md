@@ -1,8 +1,20 @@
-## Identifying Priority Survey Sites for Early-Season Milkweed Conservation
+<h1 align="center">
+
+MilkweedMod
+
+</h1>
+
+<h2 align="center">
+
+**Identifying Priority Survey Sites for Early-Season Milkweed Conservation**
 
 <h2 align="center">
    
 <img src = "https://github.com/MEDS-SBBG-milkweed/.github/assets/98177666/5e2d8810-6d59-44e9-90fa-ed979d8a9f7a" alt="MilkweedMod capstone group hexsticker. Dark green background with a white outline of California, filled in with illustrated milkweed plants and an orange monarch butterfly accompanying the text Milkweed Mod" width="300">
+
+<h2 align="center">
+
+**MEDS SBBG Milkweed**
 
 </h2>
 
