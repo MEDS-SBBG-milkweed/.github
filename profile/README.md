@@ -1,6 +1,10 @@
 ## Identifying Priority Survey Sites for Early-Season Milkweed Conservation
 
-<img width="1400" alt="MilkweedMod_Pres" src="https://github.com/MEDS-SBBG-milkweed/.github/assets/98177666/6049f3c0-e73d-4f78-96f1-634a912ab470">
+<h2 align="center">
+   
+![MilkweedMod-transparent](https://github.com/MEDS-SBBG-milkweed/.github/assets/98177666/b98e752a-194c-4e54-8623-15ef18f8409b)
+
+</h2>
 
 ## Table of Contents
 [Project Description](#project-description)
