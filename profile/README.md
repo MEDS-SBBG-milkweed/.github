@@ -77,8 +77,8 @@ This project was completed as a part of the [Master of Environmental Data Scienc
  - Melissa Widas { [GitHub](https://github.com/mwidas) | [Website](https://mwidas.github.io/) | [LinkedIn](https://www.linkedin.com/in/mwidas/) }
 
 ## Client 
+Dr. Sarah Cusser, Terrestrial Invertebrate Conservation Ecologist
 
-Dr. Sarah Cusser, Terrestrial Invertebrate Conservation Ecologist <br>
 Santa Barbara Botanic Garden <br>
 1212 Mission Canyon Rd. <br>
 Santa Barbara, CA 93105
